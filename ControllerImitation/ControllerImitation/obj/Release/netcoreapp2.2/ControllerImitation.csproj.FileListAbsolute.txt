@@ -1,0 +1,15 @@
+C:\Users\Administrator.TESTPORTAL\Desktop\ControllerExample\ControllerImitation\ControllerImitation\bin\Release\netcoreapp2.2\appsettings.json
+C:\Users\Administrator.TESTPORTAL\Desktop\ControllerExample\ControllerImitation\ControllerImitation\bin\Release\netcoreapp2.2\ControllerImitation.deps.json
+C:\Users\Administrator.TESTPORTAL\Desktop\ControllerExample\ControllerImitation\ControllerImitation\bin\Release\netcoreapp2.2\ControllerImitation.runtimeconfig.json
+C:\Users\Administrator.TESTPORTAL\Desktop\ControllerExample\ControllerImitation\ControllerImitation\bin\Release\netcoreapp2.2\ControllerImitation.runtimeconfig.dev.json
+C:\Users\Administrator.TESTPORTAL\Desktop\ControllerExample\ControllerImitation\ControllerImitation\bin\Release\netcoreapp2.2\ControllerImitation.dll
+C:\Users\Administrator.TESTPORTAL\Desktop\ControllerExample\ControllerImitation\ControllerImitation\bin\Release\netcoreapp2.2\ControllerImitation.pdb
+C:\Users\Administrator.TESTPORTAL\Desktop\ControllerExample\ControllerImitation\ControllerImitation\obj\Release\netcoreapp2.2\ControllerImitation.csprojAssemblyReference.cache
+C:\Users\Administrator.TESTPORTAL\Desktop\ControllerExample\ControllerImitation\ControllerImitation\obj\Release\netcoreapp2.2\ControllerImitation.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.TESTPORTAL\Desktop\ControllerExample\ControllerImitation\ControllerImitation\obj\Release\netcoreapp2.2\ControllerImitation.RazorAssemblyInfo.cache
+C:\Users\Administrator.TESTPORTAL\Desktop\ControllerExample\ControllerImitation\ControllerImitation\obj\Release\netcoreapp2.2\ControllerImitation.RazorAssemblyInfo.cs
+C:\Users\Administrator.TESTPORTAL\Desktop\ControllerExample\ControllerImitation\ControllerImitation\obj\Release\netcoreapp2.2\ControllerImitation.AssemblyInfoInputs.cache
+C:\Users\Administrator.TESTPORTAL\Desktop\ControllerExample\ControllerImitation\ControllerImitation\obj\Release\netcoreapp2.2\ControllerImitation.AssemblyInfo.cs
+C:\Users\Administrator.TESTPORTAL\Desktop\ControllerExample\ControllerImitation\ControllerImitation\obj\Release\netcoreapp2.2\ControllerImitation.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator.TESTPORTAL\Desktop\ControllerExample\ControllerImitation\ControllerImitation\obj\Release\netcoreapp2.2\ControllerImitation.dll
+C:\Users\Administrator.TESTPORTAL\Desktop\ControllerExample\ControllerImitation\ControllerImitation\obj\Release\netcoreapp2.2\ControllerImitation.pdb
